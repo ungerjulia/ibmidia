@@ -1,9 +1,0 @@
-{
-  "name": "IB Media Editor",
-  "short_name": "IB Editor",
-  "description": "Editor de mídia para marca d'água e logo",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0b0b12",
-  "theme_color": "#6366f1"
-}
